@@ -9,3 +9,8 @@ Con el intérprete de Ruby se muestra la salida del programa al igual que con
 el interpréte interactivo de Ruby, la diferencia es que este último muestra
 cada línea del fichero indicando la versión de ruby y el número de línea
 seguido de su salida. 
+
+¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con
+el interprete interactivo y con pry?
+Pry actúa igual que el intérprete de Ruby, muestra la salida del programa
+sin más.
