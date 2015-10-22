@@ -1,0 +1,2 @@
+¿Qué es RVM? Es un programa diseñado para gestionar múltiples instalaciones
+de Ruby en el mismo equipo.
